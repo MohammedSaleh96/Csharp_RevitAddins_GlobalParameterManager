@@ -1,0 +1,55 @@
+C:\Users\msale\Desktop\NewVersion\ParaManager\ParaManager\bin\Debug\ParaManager.dll
+C:\Users\msale\Desktop\NewVersion\ParaManager\ParaManager\bin\Debug\ParaManager.pdb
+C:\Users\msale\Desktop\NewVersion\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.AssemblyReference.cache
+C:\Users\msale\Desktop\NewVersion\ParaManager\ParaManager\obj\Debug\ParaManager.g.resources
+C:\Users\msale\Desktop\NewVersion\ParaManager\ParaManager\obj\Debug\ParaManager.WinForm.Form1.resources
+C:\Users\msale\Desktop\NewVersion\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.GenerateResource.cache
+C:\Users\msale\Desktop\NewVersion\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.CoreCompileInputs.cache
+C:\Users\msale\Desktop\NewVersion\ParaManager\ParaManager\obj\Debug\ParaManager.dll
+C:\Users\msale\Desktop\NewVersion\ParaManager\ParaManager\obj\Debug\ParaManager.pdb
+C:\Users\msale\Desktop\NewVersion\ParaManager\ParaManager\bin\Debug\ParaManager.addin
+D:\MS_AddinsFolder\MS_ParaManager\V2\ParaManager\ParaManager\bin\Debug\ParaManager.addin
+D:\MS_AddinsFolder\MS_ParaManager\V2\ParaManager\ParaManager\bin\Debug\ParaManager.dll
+D:\MS_AddinsFolder\MS_ParaManager\V2\ParaManager\ParaManager\bin\Debug\ParaManager.pdb
+D:\MS_AddinsFolder\MS_ParaManager\V2\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.AssemblyReference.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2\ParaManager\ParaManager\obj\Debug\ParaManager.g.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2\ParaManager\ParaManager\obj\Debug\ParaManager.WinForm.Form1.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.GenerateResource.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.CoreCompileInputs.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2\ParaManager\ParaManager\obj\Debug\ParaManager.dll
+D:\MS_AddinsFolder\MS_ParaManager\V2\ParaManager\ParaManager\obj\Debug\ParaManager.pdb
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updated\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.AssemblyReference.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updated\ParaManager\ParaManager\obj\Debug\ParaManager.g.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updated\ParaManager\ParaManager\obj\Debug\ParaManager.WinForm.Form1.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updated\ParaManager\ParaManager\obj\Debug\ParaManager.WinForm.WinForm_Controls.FamilyParameterTab.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updated\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.GenerateResource.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updated\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.CoreCompileInputs.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updated\ParaManager\ParaManager\obj\Debug\ParaManager.dll
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updated\ParaManager\ParaManager\obj\Debug\ParaManager.pdb
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updated\ParaManager\ParaManager\bin\Debug\ParaManager.addin
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updated\ParaManager\ParaManager\bin\Debug\ParaManager.dll
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updated\ParaManager\ParaManager\bin\Debug\ParaManager.pdb
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\bin\Debug\ParaManager.addin
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\bin\Debug\ParaManager.dll
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\bin\Debug\ParaManager.pdb
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.AssemblyReference.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\obj\Debug\ParaManager.g.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\obj\Debug\ParaManager.WinForm.Form1.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\obj\Debug\ParaManager.WinForm.WinForm_Controls.FamilyParameterTab.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.GenerateResource.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.CoreCompileInputs.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\obj\Debug\ParaManager.dll
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\obj\Debug\ParaManager.pdb
+D:\MS_AddinsFolder\MS_ParaManager\V2 Updating\ParaManager\ParaManager\obj\Debug\ParaManager.WinForm.WinForm_Controls.GlobalParameterTab.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\bin\Debug\ParaManager.addin
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\bin\Debug\ParaManager.dll
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\bin\Debug\ParaManager.pdb
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.AssemblyReference.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\obj\Debug\ParaManager.g.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\obj\Debug\ParaManager.WinForm.Form1.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\obj\Debug\ParaManager.WinForm.WinForm_Controls.FamilyParameterTab.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\obj\Debug\ParaManager.WinForm.WinForm_Controls.GlobalParameterTab.resources
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.GenerateResource.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\obj\Debug\ParaManager.csproj.CoreCompileInputs.cache
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\obj\Debug\ParaManager.dll
+D:\MS_AddinsFolder\MS_ParaManager\V2 Finished\ParaManager\ParaManager\obj\Debug\ParaManager.pdb

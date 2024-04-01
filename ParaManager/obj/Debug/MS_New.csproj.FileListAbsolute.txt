@@ -1,0 +1,10 @@
+D:\MS_AddinsFolder\MS_ParaManager\NewVersion\MS_RevitAddinTemplate\MS_Temp\bin\Debug\MS_Temp_add.addin
+D:\MS_AddinsFolder\MS_ParaManager\NewVersion\MS_RevitAddinTemplate\MS_Temp\bin\Debug\MS_Temp.dll
+D:\MS_AddinsFolder\MS_ParaManager\NewVersion\MS_RevitAddinTemplate\MS_Temp\bin\Debug\MS_Temp.pdb
+D:\MS_AddinsFolder\MS_ParaManager\NewVersion\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_New.csproj.AssemblyReference.cache
+D:\MS_AddinsFolder\MS_ParaManager\NewVersion\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_Temp.g.resources
+D:\MS_AddinsFolder\MS_ParaManager\NewVersion\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_New.WinForm.Form1.resources
+D:\MS_AddinsFolder\MS_ParaManager\NewVersion\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_New.csproj.GenerateResource.cache
+D:\MS_AddinsFolder\MS_ParaManager\NewVersion\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_New.csproj.CoreCompileInputs.cache
+D:\MS_AddinsFolder\MS_ParaManager\NewVersion\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_Temp.dll
+D:\MS_AddinsFolder\MS_ParaManager\NewVersion\MS_RevitAddinTemplate\MS_Temp\obj\Debug\MS_Temp.pdb
